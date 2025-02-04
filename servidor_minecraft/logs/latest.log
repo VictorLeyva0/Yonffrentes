@@ -924,3 +924,28 @@
 [04Feb2025 19:38:53.705] [Server thread/INFO] [Jade/]: Syncing config to minius_one (d1f533df-2b0d-3ca3-a0ad-755c3259976c)
 [04Feb2025 19:39:08.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Semen lost connection: Disconnected
 [04Feb2025 19:39:08.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen left the game
+[04Feb2025 19:42:22.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made VIctorLeyva08 a server operator
+[04Feb2025 19:42:31.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [Getting an Upgrade]
+[04Feb2025 19:43:46.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Semen[/127.122.23.250:37321] logged in with entity id 22352 at (-886.4487229256391, 108.0, 118.28149544765596)
+[04Feb2025 19:43:46.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen joined the game
+[04Feb2025 19:43:46.083] [Server thread/INFO] [Jade/]: Syncing config to Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0)
+[04Feb2025 19:43:58.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was doomed to fall by Spider
+[04Feb2025 19:43:58.126] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 19:44:18.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Who You Gonna Call?]
+[04Feb2025 19:46:55.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Semen lost connection: Disconnected
+[04Feb2025 19:46:55.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen left the game
+[04Feb2025 19:47:28.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was slain by Ghost
+[04Feb2025 19:47:28.563] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 19:48:11.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Semen[/127.122.23.250:46635] logged in with entity id 24745 at (-891.3000000119209, 89.0, 88.45733452212387)
+[04Feb2025 19:48:11.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen joined the game
+[04Feb2025 19:48:11.218] [Server thread/INFO] [Jade/]: Syncing config to Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0)
+[04Feb2025 19:48:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was slain by Ghost
+[04Feb2025 19:48:40.369] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 19:49:08.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [Who You Gonna Call?]
+[04Feb2025 19:49:44.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Witherbone] to VIctorLeyva08]
+[04Feb2025 19:49:52.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Splintering II]
+[04Feb2025 19:50:18.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one was slain by VIctorLeyva08
+[04Feb2025 19:50:18.874] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
+[04Feb2025 19:50:47.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported minius_one to VIctorLeyva08]
+[04Feb2025 19:50:50.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen was slain by VIctorLeyva08
+[04Feb2025 19:50:50.469] [Server thread/INFO] [tombstone/]: The player Semen has successfully been saved
