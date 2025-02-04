@@ -2068,3 +2068,7 @@
 [04Feb2025 22:00:09.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1047, y=63, z=192} BlockPos{x=1049, y=62, z=189}
 [04Feb2025 22:02:30.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Semen lost connection: Timed out
 [04Feb2025 22:02:30.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen left the game
+[04Feb2025 22:09:59.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Semen[/127.122.23.250:58637] logged in with entity id 96069 at (1062.698458777035, 65.24918707874468, 189.89883430111598)
+[04Feb2025 22:09:59.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen joined the game
+[04Feb2025 22:09:59.748] [Server thread/INFO] [Jade/]: Syncing config to Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0)
+[04Feb2025 22:12:00.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/55015, l='ServerLevel[world]', x=1049.91, y=74.00, z=148.70] died, message: 'Leatherworker was slain by Zombie'
