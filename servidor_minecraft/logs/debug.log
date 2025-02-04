@@ -3203,3 +3203,20 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [04Feb2025 18:35:29.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Ice and Fire]
 [04Feb2025 18:37:04.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Feb2025 18:37:04.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 18:41:16.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Suit Up]
+[04Feb2025 18:41:18.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was slain by Ghost
+[04Feb2025 18:41:18.378] [Server thread/DEBUG] [tombstone/]: A new grave of the player VIctorLeyva08 was created at position [x:-372, y:76, z:-350, dim:minecraft:overworld]
+[04Feb2025 18:41:18.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Your First Grave]
+[04Feb2025 18:41:18.388] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 18:42:04.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 18:42:04.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 18:42:53.935] [Server thread/DEBUG] [twilightforest/]: Player VIctorLeyva08 (2b541c0b-4fda-3af0-a11f-e628cdf3d653) respawned and received items held in storage
+[04Feb2025 18:44:32.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has reached the goal [Here They Come]
+[04Feb2025 18:44:46.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was slain by Ghost
+[04Feb2025 18:44:46.059] [Server thread/DEBUG] [tombstone/]: A new grave of the player VIctorLeyva08 was created at position [x:-377, y:76, z:-350, dim:minecraft:overworld]
+[04Feb2025 18:44:46.066] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 18:47:04.114] [Server thread/DEBUG] [twilightforest/]: Player VIctorLeyva08 (2b541c0b-4fda-3af0-a11f-e628cdf3d653) respawned and received items held in storage
+[04Feb2025 18:47:04.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 18:47:04.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 18:49:41.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIctorLeyva08 lost connection: Disconnected
+[04Feb2025 18:49:41.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 left the game

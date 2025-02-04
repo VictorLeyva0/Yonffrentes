@@ -814,3 +814,12 @@
 [04Feb2025 18:35:29.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 joined the game
 [04Feb2025 18:35:29.201] [Server thread/INFO] [Jade/]: Syncing config to VIctorLeyva08 (2b541c0b-4fda-3af0-a11f-e628cdf3d653)
 [04Feb2025 18:35:29.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Ice and Fire]
+[04Feb2025 18:41:16.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Suit Up]
+[04Feb2025 18:41:18.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was slain by Ghost
+[04Feb2025 18:41:18.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Your First Grave]
+[04Feb2025 18:41:18.388] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 18:44:32.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has reached the goal [Here They Come]
+[04Feb2025 18:44:46.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was slain by Ghost
+[04Feb2025 18:44:46.066] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 18:49:41.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIctorLeyva08 lost connection: Disconnected
+[04Feb2025 18:49:41.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 left the game
