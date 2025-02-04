@@ -1825,3 +1825,176 @@
 [04Feb2025 20:41:34.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
 [04Feb2025 20:41:34.916] [Server thread/INFO] [tombstone/]: The player Semen has successfully been saved
 [04Feb2025 20:41:50.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported Semen to VIctorLeyva08]
+[04Feb2025 20:43:05.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 128 [Mangrove Log] to VIctorLeyva08]
+[04Feb2025 20:49:32.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55036, l='ServerLevel[world]', x=1101.71, y=72.00, z=164.28] died, message: 'Unemployed was slain by Zombie'
+[04Feb2025 20:49:50.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen was slain by VIctorLeyva08
+[04Feb2025 20:49:50.886] [Server thread/INFO] [tombstone/]: The player Semen has successfully been saved
+[04Feb2025 20:50:16.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has reached the goal [Chain Death]
+[04Feb2025 20:50:16.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen was killed by VIctorLeyva08 using magic
+[04Feb2025 20:50:16.464] [Server thread/INFO] [tombstone/]: The player Semen has successfully been saved
+[04Feb2025 20:50:57.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has completed the challenge [Free Willy]
+[04Feb2025 20:52:09.060] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:09.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:09.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:09.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:09.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:09.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:09.659] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:09.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:09.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:09.961] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:10.063] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:10.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:10.263] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:10.358] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:10.458] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:10.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:10.669] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:10.763] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:10.859] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:10.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:11.060] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:11.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:11.261] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:11.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:11.458] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:11.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:11.658] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:11.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:11.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:11.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:12.060] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:12.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:12.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:12.362] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:12.458] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:12.559] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:12.658] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:12.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:12.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:12.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:13.159] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:13.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:13.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:13.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:13.559] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:13.658] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:13.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:13.859] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:13.958] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:14.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:14.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:14.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:14.362] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:14.458] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:14.558] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:14.660] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:14.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:14.859] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:14.961] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:15.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:15.162] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:15.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:15.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:15.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:15.559] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:15.660] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:15.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:15.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:15.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:16.063] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:16.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:16.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:16.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:16.559] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:16.661] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:16.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:16.858] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:16.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:17.060] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:17.159] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:17.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:17.358] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:17.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:17.564] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:17.666] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:17.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:17.863] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:17.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:18.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:18.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:18.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:18.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:18.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:18.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:18.658] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:18.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:18.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:18.958] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:19.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:19.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:19.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:19.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:19.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:19.559] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:19.659] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:19.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:19.862] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:19.961] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:20.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:20.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:20.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:20.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:20.462] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:20.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:20.658] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:20.758] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:20.865] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:21.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:21.159] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:21.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:21.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:21.463] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:21.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:21.661] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:21.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:21.859] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:21.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:22.061] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:22.159] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:22.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:22.358] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:22.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:22.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:22.658] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:22.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:22.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:22.962] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:23.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:23.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:52:23.268] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 20:59:46.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [Isn't It Iron Pick]
+[04Feb2025 21:00:51.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has completed the challenge [Free Willy]
+[04Feb2025 21:00:54.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was slain by Ghost
+[04Feb2025 21:00:54.022] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 21:01:01.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has reached the goal [A Fast Comeback]
+[04Feb2025 21:01:08.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/55021, l='ServerLevel[world]', x=1058.54, y=64.00, z=183.50] died, message: 'Leatherworker was slain by Ghost'
+[04Feb2025 21:01:11.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [Knowledge of Death]
+[04Feb2025 21:01:11.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has reached the goal [Strong or Careful]
+[04Feb2025 21:01:11.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one drowned
+[04Feb2025 21:01:11.032] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
+[04Feb2025 21:01:15.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55019, l='ServerLevel[world]', x=997.84, y=62.53, z=201.44] died, message: 'Unemployed was slain by Ghost'
+[04Feb2025 21:01:21.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen was slain by VIctorLeyva08
+[04Feb2025 21:01:21.737] [Server thread/INFO] [tombstone/]: The player Semen has successfully been saved
+[04Feb2025 21:01:21.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/55012, l='ServerLevel[world]', x=1018.69, y=66.00, z=163.36] died, message: 'Leatherworker was slain by Ghost'
+[04Feb2025 21:01:22.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55017, l='ServerLevel[world]', x=1092.30, y=72.00, z=162.84] died, message: 'Unemployed was slain by Ghost'
+[04Feb2025 21:01:28.812] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55016, l='ServerLevel[world]', x=1093.28, y=72.00, z=168.24] died, message: 'Unemployed was slain by Ghost'
+[04Feb2025 21:01:32.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported minius_one to VIctorLeyva08]
+[04Feb2025 21:01:33.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has reached the goal [Chain Death]
+[04Feb2025 21:01:33.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was slain by Ghost
+[04Feb2025 21:01:33.131] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 21:01:45.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported VIctorLeyva08 to minius_one]
+[04Feb2025 21:02:32.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Ashes 'n Bones]
+[04Feb2025 21:02:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one hit the ground too hard
+[04Feb2025 21:02:43.116] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
+[04Feb2025 21:02:51.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported minius_one to VIctorLeyva08]

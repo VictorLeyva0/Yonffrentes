@@ -430,6 +430,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-02-04 19:28:14 +0000",
+      "beef": "2025-02-04 20:56:19 +0000",
       "apple": "2025-02-04 19:55:53 +0000",
       "bread": "2025-02-04 19:13:13 +0000",
       "rotten_flesh": "2025-02-04 19:09:44 +0000"
@@ -1849,6 +1850,66 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-04 20:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-02-04 20:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 20:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-04 20:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/vangrove_banister": {
+    "criteria": {
+      "has_item": "2025-02-04 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mangrove_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-02-04 20:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-04 20:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-04 20:56:15 +0000"
     },
     "done": true
   },

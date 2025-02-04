@@ -695,9 +695,11 @@
     "criteria": {
       "cooked_porkchop": "2025-02-04 20:06:42 +0000",
       "apple": "2025-02-04 19:46:26 +0000",
+      "mutton": "2025-02-04 21:00:44 +0000",
       "bread": "2025-02-04 19:13:03 +0000",
       "rotten_flesh": "2025-02-04 19:59:42 +0000",
-      "beetroot": "2025-02-04 20:10:34 +0000"
+      "beetroot": "2025-02-04 20:10:34 +0000",
+      "mushroom_stew": "2025-02-04 20:46:48 +0000"
     },
     "done": false
   },
@@ -995,6 +997,24 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-04 20:59:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-02-04 21:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-02-04 20:59:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-02-04 19:55:18 +0000"
@@ -1028,6 +1048,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-02-04 20:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-02-04 20:59:46 +0000"
     },
     "done": true
   },
@@ -1076,6 +1102,12 @@
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2025-02-04 19:49:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 21:01:11 +0000"
     },
     "done": true
   },
@@ -1226,6 +1258,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2025-02-04 20:10:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 21:01:11 +0000"
     },
     "done": true
   },
