@@ -3988,3 +3988,58 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [04Feb2025 19:01:41.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one joined the game
 [04Feb2025 19:01:41.300] [Server thread/INFO] [Jade/]: Syncing config to minius_one (d1f533df-2b0d-3ca3-a0ad-755c3259976c)
 [04Feb2025 19:01:41.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [Ice and Fire]
+[04Feb2025 19:02:04.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 19:02:04.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 19:02:25.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen was slain by Ghost
+[04Feb2025 19:02:25.859] [Server thread/DEBUG] [tombstone/]: A new grave of the player Semen was created at position [x:-408, y:67, z:-199, dim:minecraft:overworld]
+[04Feb2025 19:02:25.867] [Server thread/INFO] [tombstone/]: The player Semen has successfully been saved
+[04Feb2025 19:02:27.153] [Server thread/DEBUG] [twilightforest/]: Player Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0) respawned and received items held in storage
+[04Feb2025 19:02:36.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Alex's Mobs]
+[04Feb2025 19:02:45.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one was slain by Ghost
+[04Feb2025 19:02:45.267] [Server thread/DEBUG] [tombstone/]: A new grave of the player minius_one was created at position [x:-433, y:66, z:-164, dim:minecraft:overworld]
+[04Feb2025 19:02:45.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [Your First Grave]
+[04Feb2025 19:02:45.274] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
+[04Feb2025 19:02:46.803] [Server thread/DEBUG] [twilightforest/]: Player minius_one (d1f533df-2b0d-3ca3-a0ad-755c3259976c) respawned and received items held in storage
+[04Feb2025 19:03:09.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has reached the goal [Here They Come]
+[04Feb2025 19:03:59.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was slain by Ghost
+[04Feb2025 19:03:59.559] [Server thread/DEBUG] [tombstone/]: A new grave of the player VIctorLeyva08 was created at position [x:-341, y:74, z:-292, dim:minecraft:overworld]
+[04Feb2025 19:03:59.563] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 19:04:00.751] [Server thread/DEBUG] [twilightforest/]: Player VIctorLeyva08 (2b541c0b-4fda-3af0-a11f-e628cdf3d653) respawned and received items held in storage
+[04Feb2025 19:04:14.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [No Step on Snake]
+[04Feb2025 19:04:14.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen was slain by Ghost
+[04Feb2025 19:04:14.358] [Server thread/DEBUG] [tombstone/]: A new grave of the player Semen was created at position [x:-328, y:71, z:-302, dim:minecraft:overworld]
+[04Feb2025 19:04:14.363] [Server thread/INFO] [tombstone/]: The player Semen has successfully been saved
+[04Feb2025 19:04:15.657] [Server thread/DEBUG] [twilightforest/]: Player Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0) respawned and received items held in storage
+[04Feb2025 19:04:38.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one was slain by Ghost
+[04Feb2025 19:04:38.859] [Server thread/DEBUG] [tombstone/]: A new grave of the player minius_one was created at position [x:-422, y:83, z:-336, dim:minecraft:overworld]
+[04Feb2025 19:04:38.863] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
+[04Feb2025 19:04:40.555] [Server thread/DEBUG] [twilightforest/]: Player minius_one (d1f533df-2b0d-3ca3-a0ad-755c3259976c) respawned and received items held in storage
+[04Feb2025 19:04:45.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/619, l='ServerLevel[world]', x=-420.89, y=83.06, z=-335.30] died, message: 'Unemployed was slain by Ghost'
+[04Feb2025 19:05:32.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen was slain by Ghost
+[04Feb2025 19:05:32.060] [Server thread/DEBUG] [tombstone/]: A new grave of the player Semen was created at position [x:-478, y:80, z:-350, dim:minecraft:overworld]
+[04Feb2025 19:05:32.067] [Server thread/INFO] [tombstone/]: The player Semen has successfully been saved
+[04Feb2025 19:05:33.353] [Server thread/DEBUG] [twilightforest/]: Player Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0) respawned and received items held in storage
+[04Feb2025 19:05:55.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Monster Hunter]
+[04Feb2025 19:05:57.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [Acquire Hardware]
+[04Feb2025 19:06:07.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Who You Gonna Call?]
+[04Feb2025 19:06:15.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Sweet Dreams]
+[04Feb2025 19:06:29.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one was shot by Skeleton
+[04Feb2025 19:06:29.211] [Server thread/DEBUG] [tombstone/]: A new grave of the player minius_one was created at position [x:-478, y:75, z:-340, dim:minecraft:overworld]
+[04Feb2025 19:06:29.212] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
+[04Feb2025 19:06:30.825] [Server thread/DEBUG] [twilightforest/]: Player minius_one (d1f533df-2b0d-3ca3-a0ad-755c3259976c) respawned and received items held in storage
+[04Feb2025 19:06:41.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was shot by Skeleton
+[04Feb2025 19:06:41.139] [Server thread/DEBUG] [tombstone/]: A new grave of the player VIctorLeyva08 was created at position [x:-479, y:78, z:-340, dim:minecraft:overworld]
+[04Feb2025 19:06:41.140] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 19:06:42.429] [Server thread/DEBUG] [twilightforest/]: Player VIctorLeyva08 (2b541c0b-4fda-3af0-a11f-e628cdf3d653) respawned and received items held in storage
+[04Feb2025 19:06:55.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen was shot by Skeleton
+[04Feb2025 19:06:55.314] [Server thread/INFO] [tombstone/]: The player Semen has successfully been saved
+[04Feb2025 19:06:56.567] [Server thread/DEBUG] [twilightforest/]: Player Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0) respawned and received items held in storage
+[04Feb2025 19:07:04.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 19:07:04.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 19:07:08.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [Monster Hunter]
+[04Feb2025 19:07:35.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [Sweet Dreams]
+[04Feb2025 19:07:38.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Sweet Dreams]
+[04Feb2025 19:09:28.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was slain by Semen
+[04Feb2025 19:09:28.131] [Server thread/DEBUG] [tombstone/]: A new grave of the player VIctorLeyva08 was created at position [x:-477, y:79, z:-332, dim:minecraft:overworld]
+[04Feb2025 19:09:28.132] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 19:09:29.427] [Server thread/DEBUG] [twilightforest/]: Player VIctorLeyva08 (2b541c0b-4fda-3af0-a11f-e628cdf3d653) respawned and received items held in storage
