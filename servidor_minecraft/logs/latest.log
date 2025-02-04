@@ -2061,3 +2061,10 @@
 [04Feb2025 21:47:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
 [04Feb2025 21:47:54.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> XD
 [04Feb2025 21:52:04.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported VIctorLeyva08 to minius_one]
+[04Feb2025 21:54:59.760] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55103, l='ServerLevel[world]', x=1101.85, y=72.80, z=165.19] died, message: 'Unemployed was slain by Zombie'
+[04Feb2025 21:55:22.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55104, l='ServerLevel[world]', x=1095.19, y=72.00, z=167.84] died, message: 'Unemployed was slain by Zombie'
+[04Feb2025 21:55:23.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55031, l='ServerLevel[world]', x=1095.79, y=72.00, z=167.99] died, message: 'Unemployed was slain by Zombie'
+[04Feb2025 21:55:58.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55030, l='ServerLevel[world]', x=1101.55, y=72.00, z=163.90] died, message: 'Unemployed was slain by Zombie'
+[04Feb2025 22:00:09.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1047, y=63, z=192} BlockPos{x=1049, y=62, z=189}
+[04Feb2025 22:02:30.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Semen lost connection: Timed out
+[04Feb2025 22:02:30.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen left the game
