@@ -7158,3 +7158,33 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [04Feb2025 21:32:11.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Feb2025 21:32:13.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> no enjoyer
 [04Feb2025 21:32:19.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> coma pene q es eso tan asqueroso
+[04Feb2025 21:33:20.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> venga minius arriba
+[04Feb2025 21:36:33.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:37:04.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:37:11.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 21:37:11.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 21:37:16.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:39:29.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Removed every effect from VIctorLeyva08]
+[04Feb2025 21:39:38.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:40:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:41:19.163] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1053, y=64, z=223}) doesn't have enough leaves around top most log
+[04Feb2025 21:41:20.415] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1054, y=64, z=223}) doesn't have enough leaves around top most log
+[04Feb2025 21:42:11.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 21:42:11.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 21:43:32.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:44:25.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:44:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one was slain by Drowned
+[04Feb2025 21:44:37.460] [Server thread/DEBUG] [tombstone/]: A new grave of the player minius_one was created at position [x:1036, y:62, z:186, dim:minecraft:overworld]
+[04Feb2025 21:44:37.467] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
+[04Feb2025 21:45:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:45:35.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:46:46.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:47:11.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 21:47:11.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 21:47:23.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> minius
+[04Feb2025 21:47:29.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> tienes hierro
+[04Feb2025 21:47:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:47:54.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> XD
+[04Feb2025 21:52:04.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported VIctorLeyva08 to minius_one]
+[04Feb2025 21:52:11.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 21:52:11.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
