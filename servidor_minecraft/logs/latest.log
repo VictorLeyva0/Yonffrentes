@@ -949,3 +949,16 @@
 [04Feb2025 19:50:47.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported minius_one to VIctorLeyva08]
 [04Feb2025 19:50:50.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen was slain by VIctorLeyva08
 [04Feb2025 19:50:50.469] [Server thread/INFO] [tombstone/]: The player Semen has successfully been saved
+[04Feb2025 19:52:18.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was doomed to fall by Semen
+[04Feb2025 19:52:18.720] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 19:52:38.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Semen moved too quickly! -7.8176539561007985,-0.8841593618424213,6.459178494471729
+[04Feb2025 19:52:48.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen was slain by VIctorLeyva08
+[04Feb2025 19:52:48.668] [Server thread/INFO] [tombstone/]: The player Semen has successfully been saved
+[04Feb2025 19:53:12.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported Semen to VIctorLeyva08]
+[04Feb2025 19:54:20.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Book of Monsters]
+[04Feb2025 19:55:11.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Ant-Agonizer]
+[04Feb2025 19:55:32.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Ant Farm]
+[04Feb2025 19:57:13.098] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element towns_and_towers:village_ocean took 221 ms
+[04Feb2025 19:58:51.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of minius_one) moved wrongly! 0.6067427633907982
+[04Feb2025 20:01:20.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Diamonds!]
+[04Feb2025 20:01:23.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Acquire Hardware]

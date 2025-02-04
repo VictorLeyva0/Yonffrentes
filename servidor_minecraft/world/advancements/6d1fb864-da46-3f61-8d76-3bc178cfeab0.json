@@ -288,6 +288,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-04 19:06:30 +0000",
+      "minecraft:spider": "2025-02-04 20:00:48 +0000",
       "minecraft:zombie_villager": "2025-02-04 19:05:55 +0000"
     },
     "done": false
@@ -421,6 +422,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-02-04 19:28:14 +0000",
+      "apple": "2025-02-04 19:55:53 +0000",
       "bread": "2025-02-04 19:13:13 +0000",
       "rotten_flesh": "2025-02-04 19:09:44 +0000"
     },
