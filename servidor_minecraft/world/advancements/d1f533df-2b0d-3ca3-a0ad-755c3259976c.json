@@ -459,7 +459,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-04 19:07:08 +0000",
-      "minecraft:enderman": "2025-02-04 19:10:18 +0000"
+      "minecraft:enderman": "2025-02-04 19:10:18 +0000",
+      "minecraft:zombie": "2025-02-04 21:31:36 +0000"
     },
     "done": false
   },
@@ -1039,12 +1040,24 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-02-04 21:31:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "dark_planks": "2025-02-04 21:13:49 +0000",
       "dark_log": "2025-02-04 21:13:46 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-02-04 21:30:33 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/building_blocks/wood/dark_stairs": {
     "criteria": {
@@ -1196,6 +1209,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-02-04 21:30:33 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-02-04 21:01:11 +0000"
@@ -1205,6 +1224,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-04 19:55:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-02-04 21:30:33 +0000"
     },
     "done": true
   },

@@ -7138,3 +7138,23 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [04Feb2025 21:21:49.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 10 [Sponge] to VIctorLeyva08]
 [04Feb2025 21:22:11.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Feb2025 21:22:11.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 21:24:48.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Mangrove Bridge Stair] to VIctorLeyva08]
+[04Feb2025 21:24:51.065] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=8344, y=5, z=1546}
+[04Feb2025 21:24:53.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 10 [Mangrove Bridge Stair] to VIctorLeyva08]
+[04Feb2025 21:24:53.300] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=1043, y=62, z=194}
+[04Feb2025 21:24:53.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Semen moved too quickly! -7301.957874457839,57.07840000152588,-1351.9903334624603
+[04Feb2025 21:25:46.466] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=8344, y=5, z=1546}
+[04Feb2025 21:25:49.182] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=1043, y=62, z=194}
+[04Feb2025 21:26:25.166] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1048, y=68, z=217}) doesn't have enough leaves around top most log
+[04Feb2025 21:26:32.158] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55105, l='ServerLevel[world]', x=1126.58, y=16.00, z=171.72] died, message: 'Unemployed hit the ground too hard'
+[04Feb2025 21:27:11.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 21:27:11.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 21:28:12.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:29:39.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[04Feb2025 21:30:29.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> soy ese
+[04Feb2025 21:31:48.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [A Strange Grave Dust]
+[04Feb2025 21:32:00.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported VIctorLeyva08 to minius_one]
+[04Feb2025 21:32:11.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 21:32:11.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 21:32:13.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> no enjoyer
+[04Feb2025 21:32:19.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> coma pene q es eso tan asqueroso
