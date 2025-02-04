@@ -961,6 +961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-04 21:13:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-02-04 20:03:16 +0000"
@@ -1027,6 +1033,25 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/dark_gate": {
+    "criteria": {
+      "has_item": "2025-02-04 21:13:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "dark_planks": "2025-02-04 21:13:49 +0000",
+      "dark_log": "2025-02-04 21:13:46 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_stairs": {
+    "criteria": {
+      "has_item": "2025-02-04 21:13:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-02-04 20:10:27 +0000"
@@ -1069,9 +1094,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_fence": {
+    "criteria": {
+      "has_item": "2025-02-04 21:13:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-02-04 19:47:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-04 21:13:49 +0000"
     },
     "done": true
   },
@@ -1090,6 +1127,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-02-04 21:04:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_plate": {
+    "criteria": {
+      "has_item": "2025-02-04 21:13:49 +0000"
     },
     "done": true
   },
@@ -1132,6 +1175,18 @@
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2025-02-04 19:49:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_slab": {
+    "criteria": {
+      "has_item": "2025-02-04 21:13:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_sign": {
+    "criteria": {
+      "has_item": "2025-02-04 21:13:49 +0000"
     },
     "done": true
   },
@@ -1189,6 +1244,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_chest": {
+    "criteria": {
+      "has_item": "2025-02-04 21:13:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-02-04 19:48:30 +0000"
@@ -1219,6 +1280,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/dark_button": {
+    "criteria": {
+      "has_item": "2025-02-04 21:13:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-02-04 20:11:14 +0000"
@@ -1231,6 +1298,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/dark_wood": {
+    "criteria": {
+      "has_item": "2025-02-04 21:13:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_door": {
+    "criteria": {
+      "has_item": "2025-02-04 21:13:49 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bridge_lantern": {
     "criteria": {
       "has_planks": "2025-02-04 19:55:05 +0000"
@@ -1240,6 +1319,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-02-04 20:11:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+    "criteria": {
+      "has_item": "2025-02-04 21:13:46 +0000"
     },
     "done": true
   },
@@ -1300,6 +1385,18 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-02-04 21:01:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-02-04 21:20:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-02-04 21:13:15 +0000"
     },
     "done": true
   },
