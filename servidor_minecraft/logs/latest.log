@@ -2072,3 +2072,5 @@
 [04Feb2025 22:09:59.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen joined the game
 [04Feb2025 22:09:59.748] [Server thread/INFO] [Jade/]: Syncing config to Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0)
 [04Feb2025 22:12:00.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/55015, l='ServerLevel[world]', x=1049.91, y=74.00, z=148.70] died, message: 'Leatherworker was slain by Zombie'
+[04Feb2025 22:22:23.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minius_one lost connection: Disconnected
+[04Feb2025 22:22:23.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one left the game
