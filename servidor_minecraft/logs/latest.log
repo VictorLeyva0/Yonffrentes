@@ -888,3 +888,12 @@
 [04Feb2025 19:07:38.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Sweet Dreams]
 [04Feb2025 19:09:28.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 was slain by Semen
 [04Feb2025 19:09:28.132] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
+[04Feb2025 19:15:40.965] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[04Feb2025 19:17:30.194] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[04Feb2025 19:17:52.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Stone Age]
+[04Feb2025 19:17:57.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Getting an Upgrade]
+[04Feb2025 19:18:36.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [An Ear-Shattering Roar]
+[04Feb2025 19:19:53.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Stone Age]
+[04Feb2025 19:20:07.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Getting an Upgrade]
+[04Feb2025 19:20:36.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minius_one lost connection: Disconnected
+[04Feb2025 19:20:36.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one left the game

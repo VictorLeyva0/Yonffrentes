@@ -4043,3 +4043,16 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [04Feb2025 19:09:28.131] [Server thread/DEBUG] [tombstone/]: A new grave of the player VIctorLeyva08 was created at position [x:-477, y:79, z:-332, dim:minecraft:overworld]
 [04Feb2025 19:09:28.132] [Server thread/INFO] [tombstone/]: The player VIctorLeyva08 has successfully been saved
 [04Feb2025 19:09:29.427] [Server thread/DEBUG] [twilightforest/]: Player VIctorLeyva08 (2b541c0b-4fda-3af0-a11f-e628cdf3d653) respawned and received items held in storage
+[04Feb2025 19:12:04.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 19:12:04.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 19:15:40.965] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[04Feb2025 19:17:04.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 19:17:04.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 19:17:30.194] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[04Feb2025 19:17:52.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Stone Age]
+[04Feb2025 19:17:57.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Getting an Upgrade]
+[04Feb2025 19:18:36.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [An Ear-Shattering Roar]
+[04Feb2025 19:19:53.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Stone Age]
+[04Feb2025 19:20:07.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Getting an Upgrade]
+[04Feb2025 19:20:36.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minius_one lost connection: Disconnected
+[04Feb2025 19:20:36.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one left the game
