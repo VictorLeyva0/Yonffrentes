@@ -1691,6 +1691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-04 21:10:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
     "criteria": {
       "has_log": "2025-02-04 20:42:28 +0000"
@@ -1703,6 +1709,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-02-04 21:12:06 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_rail_bridge": {
     "criteria": {
       "has_planks": "2025-02-04 20:45:29 +0000"
@@ -1712,6 +1724,12 @@
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-02-04 20:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-04 21:10:32 +0000"
     },
     "done": true
   },
@@ -1925,15 +1943,33 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-02-04 21:10:55 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mangrove_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-02-04 20:44:40 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 21:02:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mangrove_bridge_pier": {
     "criteria": {
       "has_planks": "2025-02-04 20:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-04 21:10:32 +0000"
     },
     "done": true
   },

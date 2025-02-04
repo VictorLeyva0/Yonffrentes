@@ -6836,3 +6836,37 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [04Feb2025 21:02:43.116] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
 [04Feb2025 21:02:44.922] [Server thread/DEBUG] [twilightforest/]: Player minius_one (d1f533df-2b0d-3ca3-a0ad-755c3259976c) respawned and received items held in storage
 [04Feb2025 21:02:51.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported minius_one to VIctorLeyva08]
+[04Feb2025 21:03:52.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Mangrove Bridge Support] to VIctorLeyva08]
+[04Feb2025 21:03:59.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Mangrove Bridge] to VIctorLeyva08]
+[04Feb2025 21:04:05.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Mangrove Bridge Stair] to VIctorLeyva08]
+[04Feb2025 21:04:16.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Rope Mangrove Bridge Stair] to VIctorLeyva08]
+[04Feb2025 21:04:29.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 64 [Mangrove Bridge Support] to VIctorLeyva08]
+[04Feb2025 21:06:08.725] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1045, y=66, z=216}) doesn't have enough leaves around top most log
+[04Feb2025 21:07:07.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 21:07:07.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 21:07:54.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Bridge Lantern] to VIctorLeyva08]
+[04Feb2025 21:10:32.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 10 [Bone Meal] to VIctorLeyva08]
+[04Feb2025 21:10:55.953] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[04Feb2025 21:10:55.956] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[04Feb2025 21:10:55.972] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot first try, trying again with longer range.
+[04Feb2025 21:10:56.003] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot second try, trying to move slightly towards the center between key biomes.
+[04Feb2025 21:10:56.031] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot third try, trying to move further towards the center between key biomes.
+[04Feb2025 21:10:56.053] [Server thread/WARN] [twilightforest/]: Still did not find a safe portal spot.
+[04Feb2025 21:10:58.356] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for VIctorLeyva08 at BlockPos{x=8344, y=5, z=1545}
+[04Feb2025 21:10:58.673] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=1043, y=62, z=194}
+[04Feb2025 21:10:58.684] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=8344, y=5, z=1546}
+[04Feb2025 21:10:58.685] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=1042, y=62, z=194}
+[04Feb2025 21:10:58.685] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=1043, y=62, z=194}
+[04Feb2025 21:10:58.685] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=1042, y=62, z=195}
+[04Feb2025 21:10:58.685] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=1043, y=62, z=195}
+[04Feb2025 21:11:00.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4482ms or 89 ticks behind
+[04Feb2025 21:11:00.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIctorLeyva08 moved too quickly! 7303.019400974341,-56.955870996996964,1350.9247105866152
+[04Feb2025 21:11:00.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minius_one moved too quickly! -8.340702659701265,4.249187078744683,-3.5634034927419975
+[04Feb2025 21:11:08.021] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=1043, y=62, z=194}
+[04Feb2025 21:11:09.718] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=984, y=64, z=137}) doesn't have enough leaves around top most log
+[04Feb2025 21:11:59.532] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=8344, y=5, z=1546}
+[04Feb2025 21:11:59.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VIctorLeyva08 moved too quickly! 7303.21523021247,-56.95327914164065,1350.305473018233
+[04Feb2025 21:12:06.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [The Silence of the Forest]
+[04Feb2025 21:12:11.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 21:12:11.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 21:12:33.778] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=1043, y=62, z=194}
