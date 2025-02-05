@@ -84,3 +84,18 @@
 [05Feb2025 16:50:33.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: minius_one[/127.228.197.101:60325] logged in with entity id 616 at (1047.6965808385673, 63.0, 222.9272654532727)
 [05Feb2025 16:50:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one joined the game
 [05Feb2025 16:50:33.995] [Server thread/INFO] [Jade/]: Syncing config to minius_one (d1f533df-2b0d-3ca3-a0ad-755c3259976c)
+[05Feb2025 17:01:07.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [The Silence of the Forest]
+[05Feb2025 17:01:19.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [Ashes 'n Bones]
+[05Feb2025 17:03:49.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Semen[/127.122.23.250:43961] logged in with entity id 3898 at (1065.3581466938836, 67.25, 218.77894644340665)
+[05Feb2025 17:03:49.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen joined the game
+[05Feb2025 17:03:49.821] [Server thread/INFO] [Jade/]: Syncing config to Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0)
+[05Feb2025 17:06:18.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VIctorLeyva08[/127.144.190.137:53865] logged in with entity id 4436 at (1063.8903934193502, 67.25, 223.12512334276542)
+[05Feb2025 17:06:18.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 joined the game
+[05Feb2025 17:06:18.272] [Server thread/INFO] [Jade/]: Syncing config to VIctorLeyva08 (2b541c0b-4fda-3af0-a11f-e628cdf3d653)
+[05Feb2025 17:06:35.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Semen lost connection: Disconnected
+[05Feb2025 17:06:35.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen left the game
+[05Feb2025 17:06:35.085] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Feb2025 17:06:49.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[05Feb2025 17:07:27.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Semen[/127.122.23.250:46649] logged in with entity id 4672 at (1051.1893899610725, 64.0, 209.9421496601148)
+[05Feb2025 17:07:27.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen joined the game
+[05Feb2025 17:07:27.102] [Server thread/INFO] [Jade/]: Syncing config to Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0)
