@@ -714,7 +714,8 @@
       "apple": "2025-02-04 19:57:34 +0000",
       "pumpkin_pie": "2025-02-04 20:02:14 +0000",
       "mutton": "2025-02-04 19:20:19 +0000",
-      "bread": "2025-02-04 20:01:25 +0000"
+      "bread": "2025-02-04 20:01:25 +0000",
+      "golden_apple": "2025-02-05 17:10:38 +0000"
     },
     "done": false
   },
@@ -1993,9 +1994,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-02-04 21:17:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
     "criteria": {
       "has_item": "2025-02-04 21:17:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2025-02-04 21:17:59 +0000"
     },
     "done": true
   },
@@ -2005,15 +2018,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/firefly_jar": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "has_item": "2025-02-04 21:17:13 +0000"
+      "has_gravel": "2025-02-05 17:12:30 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_item": "2025-02-04 21:17:59 +0000"
+      "has_poppy": "2025-02-05 17:06:36 +0000"
     },
     "done": true
   },
