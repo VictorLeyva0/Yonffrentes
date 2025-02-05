@@ -2351,3 +2351,26 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [05Feb2025 17:15:32.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 64 [Deepslate] to VIctorLeyva08]
 [05Feb2025 17:15:33.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 63 [Stripped Mangrove Wood] to VIctorLeyva08]
 [05Feb2025 17:17:02.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 128 [Polished Deepslate Slab] to VIctorLeyva08]
+[05Feb2025 17:17:50.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 17:17:50.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 17:18:03.385] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=8344, y=5, z=1546}
+[05Feb2025 17:18:32.932] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=8344, y=5, z=1546}
+[05Feb2025 17:19:18.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> victor hpta
+[05Feb2025 17:19:21.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> hola
+[05Feb2025 17:19:44.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> eso me estallo todo el ano
+[05Feb2025 17:20:14.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Not Today, Thank You]
+[05Feb2025 17:20:47.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
+[05Feb2025 17:20:51.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Ashes 'n Bones]
+[05Feb2025 17:21:25.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> vistor hpta
+[05Feb2025 17:21:50.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> fouck you
+[05Feb2025 17:22:43.548] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1071, y=74, z=165}) doesn't have enough leaves around top most log
+[05Feb2025 17:22:44.452] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1070, y=74, z=166}) doesn't have enough leaves around top most log
+[05Feb2025 17:22:46.051] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1071, y=75, z=167}) doesn't have enough leaves around top most log
+[05Feb2025 17:22:46.847] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1071, y=74, z=167}) doesn't have enough leaves around top most log
+[05Feb2025 17:22:50.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 17:22:50.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 17:26:10.132] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=8344, y=5, z=1546}
+[05Feb2025 17:26:22.483] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=8344, y=5, z=1546}
+[05Feb2025 17:27:45.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [A Seedy Place]
+[05Feb2025 17:27:50.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 17:27:50.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
