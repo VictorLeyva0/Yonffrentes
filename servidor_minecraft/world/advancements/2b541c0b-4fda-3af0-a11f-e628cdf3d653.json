@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-05 17:29:55 +0000",
       "minecraft:wooded_badlands": "2025-02-04 19:04:55 +0000",
       "minecraft:badlands": "2025-02-04 19:04:56 +0000",
       "minecraft:beach": "2025-02-04 20:24:33 +0000",
@@ -29,6 +30,7 @@
       "minecraft:grove": "2025-02-04 20:29:40 +0000",
       "minecraft:cold_ocean": "2025-02-04 20:33:40 +0000",
       "minecraft:forest": "2025-02-04 19:11:43 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-05 17:28:55 +0000",
       "minecraft:desert": "2025-02-04 18:35:30 +0000",
       "minecraft:jungle": "2025-02-04 19:43:49 +0000",
       "minecraft:ocean": "2025-02-04 20:24:07 +0000",
@@ -1681,7 +1683,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-05 17:30:23 +0000",
       "minecraft:skeleton": "2025-02-04 21:33:50 +0000",
+      "minecraft:vindicator": "2025-02-05 17:30:30 +0000",
       "minecraft:spider": "2025-02-04 21:34:50 +0000",
       "minecraft:creeper": "2025-02-04 20:29:03 +0000",
       "minecraft:zombie": "2025-02-04 20:28:58 +0000"
@@ -2036,9 +2040,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-05 17:32:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-05 17:14:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "dark_slab": "2025-02-05 17:41:00 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/decorations/wood/dark_banister": {
+    "criteria": {
+      "has_item": "2025-02-05 17:41:00 +0000"
     },
     "done": true
   },
@@ -2060,6 +2082,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-05 17:32:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-05 17:31:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-02-05 17:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-05 17:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-05 17:32:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-05 17:06:36 +0000"
@@ -2078,6 +2130,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-05 17:32:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-02-05 17:34:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-05 17:14:50 +0000"
@@ -2093,6 +2157,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-05 17:14:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-02-05 17:32:38 +0000"
     },
     "done": true
   },
@@ -2126,6 +2196,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-05 17:30:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-05 17:14:50 +0000"
@@ -2135,6 +2211,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-05 17:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-05 17:43:20 +0000"
     },
     "done": true
   },

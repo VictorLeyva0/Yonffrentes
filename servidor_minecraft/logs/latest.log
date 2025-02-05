@@ -136,3 +136,119 @@
 [05Feb2025 17:21:25.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> vistor hpta
 [05Feb2025 17:21:50.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> fouck you
 [05Feb2025 17:27:45.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [A Seedy Place]
+[05Feb2025 17:28:25.352] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element towns_and_towers:pillager_outpost_ocean took 1341 ms
+[05Feb2025 17:29:03.914] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element towns_and_towers:pillager_outpost_flower_forest took 1851 ms
+[05Feb2025 17:29:44.884] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[05Feb2025 17:29:54.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported VIctorLeyva08 to 3312.500000, 62.073264, -2927.500000]
+[05Feb2025 17:29:55.312] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-56, z=187}
+[05Feb2025 17:29:55.314] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-56, z=189}
+[05Feb2025 17:29:55.314] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-56, z=186}
+[05Feb2025 17:29:55.314] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=-56, z=187}
+[05Feb2025 17:29:55.315] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-56, z=186}
+[05Feb2025 17:29:55.315] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-56, z=190}
+[05Feb2025 17:29:55.315] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-56, z=190}
+[05Feb2025 17:29:55.315] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=-56, z=189}
+[05Feb2025 17:29:56.817] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-51, z=186}
+[05Feb2025 17:29:56.819] [Worker-Main-16/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
+[05Feb2025 17:29:56.850] [Worker-Main-15/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
+[05Feb2025 17:30:00.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:30:23.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Ambush]
+[05Feb2025 17:30:38.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> ayuda
+[05Feb2025 17:30:44.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> no ya no
+[05Feb2025 17:30:49.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> SI
+[05Feb2025 17:31:00.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Set own game mode to Creative Mode]
+[05Feb2025 17:31:13.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Applied effect Strength to VIctorLeyva08]
+[05Feb2025 17:31:19.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Tie me to the Mast]
+[05Feb2025 17:31:44.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Set own game mode to Survival Mode]
+[05Feb2025 17:32:01.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:01.583] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:01.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:01.784] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:01.882] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:01.983] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:02.084] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:02.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:02.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:02.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:02.484] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:02.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:02.681] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:02.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:02.882] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:02.982] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:03.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:03.182] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:03.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:03.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:03.482] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:03.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:03.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:03.783] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:03.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:03.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:04.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:04.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:04.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:04.380] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:04.481] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:04.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:04.681] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:04.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:04.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:04.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:05.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:05.195] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:05.284] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:05.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:05.483] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:05.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:05.683] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 17:32:38.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Where Is The Stone Pen?]
+[05Feb2025 17:33:27.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> NO
+[05Feb2025 17:34:16.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has reached the goal [Fortuitous Militia]
+[05Feb2025 17:34:26.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> ??
+[05Feb2025 17:34:53.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Voluntary Exile]
+[05Feb2025 17:35:06.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> hay barcos piratas
+[05Feb2025 17:35:16.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> hojala se lo follen
+[05Feb2025 17:35:32.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> se hace con hojas xdd
+[05Feb2025 17:35:37.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> metete al portal
+[05Feb2025 17:36:10.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> hay unas hojitas
+[05Feb2025 17:36:14.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> del mundo de yonsatan
+[05Feb2025 17:36:18.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> estan en cofres
+[05Feb2025 17:36:29.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Semen moved too quickly! 7303.354577641583,-56.67647087614428,1350.5104540303187
+[05Feb2025 17:36:57.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/12037, l='ServerLevel[world]', x=3321.54, y=68.00, z=-2981.37] died, message: 'Fisherman was shot by Pillager'
+[05Feb2025 17:37:14.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [The Silence of the Forest]
+[05Feb2025 17:38:12.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Set own game mode to Creative Mode]
+[05Feb2025 17:38:19.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Set own game mode to Survival Mode]
+[05Feb2025 17:38:32.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Set own game mode to Creative Mode]
+[05Feb2025 17:39:30.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> hay una dungoen que se les marca en el mapa
+[05Feb2025 17:39:43.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> ahorita voy
+[05Feb2025 17:40:27.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Set own game mode to Survival Mode]
+[05Feb2025 17:40:35.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has reached the goal [Home Sweet Home]
+[05Feb2025 17:41:25.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> tienes que encantarlo en una tumba
+[05Feb2025 17:41:35.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> en las dungeons vienen encantadas de todo tipo
+[05Feb2025 17:41:41.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> pero no tenemos para hacer tumbas :V
+[05Feb2025 17:41:57.164] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[05Feb2025 17:41:59.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> ven
+[05Feb2025 17:42:07.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minius_one lost connection: Disconnected
+[05Feb2025 17:42:07.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one left the game
+[05Feb2025 17:42:53.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Semen moved too quickly! 7303.203771150222,-56.67647087614428,1350.142812003593
+[05Feb2025 17:43:31.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> traes luz?
+[05Feb2025 17:43:57.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> mata
+[05Feb2025 17:44:00.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> tienes que mejorar tu nivel
+[05Feb2025 17:44:12.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> si no no podemos acceder al bioma
+[05Feb2025 17:44:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> ahh
+[05Feb2025 17:46:27.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 10 [Torchberries] to VIctorLeyva08]
+[05Feb2025 17:46:44.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 50 [Torch] to VIctorLeyva08]
+[05Feb2025 17:47:19.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Summoned new Raven]
+[05Feb2025 17:47:26.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: minius_one[/127.228.197.101:60695] logged in with entity id 38699 at (1042.812676529965, 62.95327914164065, 194.78158182845905)
+[05Feb2025 17:47:26.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one joined the game
+[05Feb2025 17:47:26.404] [Server thread/INFO] [Jade/]: Syncing config to minius_one (d1f533df-2b0d-3ca3-a0ad-755c3259976c)
+[05Feb2025 17:47:31.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minius_one moved too quickly! 0.0,-11.832170645297445,0.0
+[05Feb2025 17:47:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one fell from a high place
+[05Feb2025 17:47:32.563] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
+[05Feb2025 17:47:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Summoned new Raven]
+[05Feb2025 17:47:42.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> YA
+[05Feb2025 17:47:46.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> Solo falta algo
+[05Feb2025 17:47:56.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> tienes glowstone¡
+[05Feb2025 17:47:57.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> ?

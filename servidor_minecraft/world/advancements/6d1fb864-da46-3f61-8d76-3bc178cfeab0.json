@@ -433,9 +433,11 @@
     "criteria": {
       "cooked_mutton": "2025-02-04 19:28:14 +0000",
       "beef": "2025-02-04 20:56:19 +0000",
+      "baked_potato": "2025-02-05 17:37:33 +0000",
       "apple": "2025-02-04 19:55:53 +0000",
       "potato": "2025-02-04 21:02:45 +0000",
       "bread": "2025-02-04 19:13:13 +0000",
+      "golden_apple": "2025-02-05 17:44:05 +0000",
       "rotten_flesh": "2025-02-04 19:09:44 +0000"
     },
     "done": false
@@ -2384,6 +2386,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-05 17:36:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-02-05 17:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-05 17:20:14 +0000"
@@ -2401,6 +2415,12 @@
       "has_planks": "2025-02-05 17:27:45 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "dark_log": "2025-02-05 17:42:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
@@ -2423,6 +2443,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-02-05 17:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-02-05 17:44:03 +0000"
     },
     "done": true
   },
@@ -2456,6 +2482,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/dark_wood": {
+    "criteria": {
+      "has_item": "2025-02-05 17:42:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-05 17:27:45 +0000"
@@ -2471,6 +2503,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-05 17:27:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+    "criteria": {
+      "has_item": "2025-02-05 17:42:57 +0000"
     },
     "done": true
   },
