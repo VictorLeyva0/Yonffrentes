@@ -1,254 +1,101 @@
-[05Feb2025 16:37:12.249] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[05Feb2025 16:37:12.258] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[05Feb2025 16:37:13.267] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Feb2025 16:37:13.323] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Yonffrentes/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Feb2025 16:37:13.688] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Yonffrentes/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[05Feb2025 16:37:13.694] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Yonffrentes/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Feb2025 16:37:13.696] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Yonffrentes/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Feb2025 16:37:13.699] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Yonffrentes/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Feb2025 16:37:13.904] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[05Feb2025 16:37:16.274] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Feb2025 16:37:16.321] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[05Feb2025 16:37:16.540] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
-[05Feb2025 16:37:16.551] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 66 options available, 0 override(s) found
-[05Feb2025 16:37:16.563] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Feb2025 16:37:17.556] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[05Feb2025 16:37:26.715] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[05Feb2025 16:37:26.715] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[05Feb2025 16:37:30.499] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[05Feb2025 16:37:30.658] [main/INFO] [journeymap/]: Initializing Packet Registries
-[05Feb2025 16:37:30.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
-[05Feb2025 16:37:30.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[05Feb2025 16:37:30.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
-[05Feb2025 16:37:30.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
-[05Feb2025 16:37:30.749] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[05Feb2025 16:37:30.756] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[05Feb2025 16:37:30.769] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[05Feb2025 16:37:30.774] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[05Feb2025 16:37:30.776] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[05Feb2025 16:37:31.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.4+mc1.20.1-build.131 Target: null
-[05Feb2025 16:37:31.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Feb2025 16:37:31.099] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
-[05Feb2025 16:37:31.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[05Feb2025 16:37:31.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[05Feb2025 16:37:31.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[05Feb2025 16:37:31.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[05Feb2025 16:37:34.228] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Feb2025 16:37:36.555] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Yonffrentes/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/assets/.mcassetsroot' uses unexpected schema
-[05Feb2025 16:37:36.556] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Yonffrentes/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/data/.mcassetsroot' uses unexpected schema
-[05Feb2025 16:37:37.991] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[05Feb2025 16:37:38.900] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[05Feb2025 16:37:38.947] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[05Feb2025 16:37:38.954] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[05Feb2025 16:37:38.955] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[05Feb2025 16:37:38.957] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[05Feb2025 16:37:38.959] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[05Feb2025 16:37:38.965] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[05Feb2025 16:37:38.966] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[05Feb2025 16:37:38.968] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[05Feb2025 16:37:39.105] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2371 advancements
-[05Feb2025 16:37:39.111] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[05Feb2025 16:37:41.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Feb2025 16:37:41.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Feb2025 16:37:41.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Feb2025 16:37:41.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Feb2025 16:37:41.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Feb2025 16:37:41.182] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Feb2025 16:37:41.281] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Feb2025 16:37:41.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Feb2025 16:37:41.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Feb2025 16:37:41.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Feb2025 16:37:41.305] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[05Feb2025 16:37:41.306] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[05Feb2025 16:37:41.307] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[05Feb2025 16:37:41.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Feb2025 16:37:44.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Feb2025 16:37:48.945] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 16:37:48.984] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 16:37:49.017] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 16:37:49.047] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 16:37:49.072] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 16:37:49.109] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 16:37:49.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 16:37:49.209] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 16:37:49.213] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 16:37:49.217] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 16:37:49.636] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Feb2025 16:37:50.134] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[05Feb2025 16:37:50.635] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
-[05Feb2025 16:37:50.852] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6219 ms
-[05Feb2025 16:37:50.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.554s)! For help, type "help"
-[05Feb2025 16:37:50.888] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Feb2025 16:37:50.924] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[05Feb2025 16:37:50.924] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[05Feb2025 16:50:33.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: minius_one[/127.228.197.101:60325] logged in with entity id 616 at (1047.6965808385673, 63.0, 222.9272654532727)
-[05Feb2025 16:50:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one joined the game
-[05Feb2025 16:50:33.995] [Server thread/INFO] [Jade/]: Syncing config to minius_one (d1f533df-2b0d-3ca3-a0ad-755c3259976c)
-[05Feb2025 17:01:07.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [The Silence of the Forest]
-[05Feb2025 17:01:19.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [Ashes 'n Bones]
-[05Feb2025 17:03:49.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Semen[/127.122.23.250:43961] logged in with entity id 3898 at (1065.3581466938836, 67.25, 218.77894644340665)
-[05Feb2025 17:03:49.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen joined the game
-[05Feb2025 17:03:49.821] [Server thread/INFO] [Jade/]: Syncing config to Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0)
-[05Feb2025 17:06:18.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VIctorLeyva08[/127.144.190.137:53865] logged in with entity id 4436 at (1063.8903934193502, 67.25, 223.12512334276542)
-[05Feb2025 17:06:18.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 joined the game
-[05Feb2025 17:06:18.272] [Server thread/INFO] [Jade/]: Syncing config to VIctorLeyva08 (2b541c0b-4fda-3af0-a11f-e628cdf3d653)
-[05Feb2025 17:06:35.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Semen lost connection: Disconnected
-[05Feb2025 17:06:35.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen left the game
-[05Feb2025 17:06:35.085] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[05Feb2025 17:06:49.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
-[05Feb2025 17:07:27.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Semen[/127.122.23.250:46649] logged in with entity id 4672 at (1051.1893899610725, 64.0, 209.9421496601148)
-[05Feb2025 17:07:27.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen joined the game
-[05Feb2025 17:07:27.102] [Server thread/INFO] [Jade/]: Syncing config to Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0)
-[05Feb2025 17:08:56.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> ya gracias
-[05Feb2025 17:09:09.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one was killed by VIctorLeyva08 using magic
-[05Feb2025 17:09:10.001] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
-[05Feb2025 17:09:53.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has reached the goal [Chain Death]
-[05Feb2025 17:09:53.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one was slain by VIctorLeyva08
-[05Feb2025 17:09:53.720] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
-[05Feb2025 17:10:22.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one was slain by VIctorLeyva08
-[05Feb2025 17:10:22.018] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
-[05Feb2025 17:10:56.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> no bajas nada
-[05Feb2025 17:11:00.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one was slain by VIctorLeyva08
-[05Feb2025 17:11:00.518] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
-[05Feb2025 17:11:02.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> ahi si
-[05Feb2025 17:11:49.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> q dungueones hay?
-[05Feb2025 17:11:57.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> por el mapa hay varias
-[05Feb2025 17:12:02.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> vamos a una
-[05Feb2025 17:12:06.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> a explorar
-[05Feb2025 17:12:16.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> yo te recomendaria ir al portal que cree
-[05Feb2025 17:12:20.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> no se que hay ahi
-[05Feb2025 17:12:23.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> pero hay una boss bar
-[05Feb2025 17:12:31.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <minius_one> duerman
-[05Feb2025 17:12:47.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> minius maricon
-[05Feb2025 17:13:29.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <minius_one> eso no me dijo tu papá anoche
-[05Feb2025 17:13:39.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Stripped Mangrove Wood] to VIctorLeyva08]
-[05Feb2025 17:13:51.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 63 [Stripped Mangrove Wood] to VIctorLeyva08]
-[05Feb2025 17:14:37.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 64 [Deepslate] to VIctorLeyva08]
-[05Feb2025 17:15:32.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 64 [Deepslate] to VIctorLeyva08]
-[05Feb2025 17:15:33.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 63 [Stripped Mangrove Wood] to VIctorLeyva08]
-[05Feb2025 17:17:02.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 128 [Polished Deepslate Slab] to VIctorLeyva08]
-[05Feb2025 17:19:18.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> victor hpta
-[05Feb2025 17:19:21.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> hola
-[05Feb2025 17:19:44.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> eso me estallo todo el ano
-[05Feb2025 17:20:14.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Not Today, Thank You]
-[05Feb2025 17:20:47.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 1 [Creative Picture Frame] to VIctorLeyva08]
-[05Feb2025 17:20:51.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [Ashes 'n Bones]
-[05Feb2025 17:21:25.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> vistor hpta
-[05Feb2025 17:21:50.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> fouck you
-[05Feb2025 17:27:45.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one has made the advancement [A Seedy Place]
-[05Feb2025 17:28:25.352] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element towns_and_towers:pillager_outpost_ocean took 1341 ms
-[05Feb2025 17:29:03.914] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element towns_and_towers:pillager_outpost_flower_forest took 1851 ms
-[05Feb2025 17:29:44.884] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
-[05Feb2025 17:29:54.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Teleported VIctorLeyva08 to 3312.500000, 62.073264, -2927.500000]
-[05Feb2025 17:29:55.312] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-56, z=187}
-[05Feb2025 17:29:55.314] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-56, z=189}
-[05Feb2025 17:29:55.314] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-56, z=186}
-[05Feb2025 17:29:55.314] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=-56, z=187}
-[05Feb2025 17:29:55.315] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-56, z=186}
-[05Feb2025 17:29:55.315] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-56, z=190}
-[05Feb2025 17:29:55.315] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-56, z=190}
-[05Feb2025 17:29:55.315] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=-56, z=189}
-[05Feb2025 17:29:56.817] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-51, z=186}
-[05Feb2025 17:29:56.819] [Worker-Main-16/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
-[05Feb2025 17:29:56.850] [Worker-Main-15/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
-[05Feb2025 17:30:00.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:30:23.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Ambush]
-[05Feb2025 17:30:38.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> ayuda
-[05Feb2025 17:30:44.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> no ya no
-[05Feb2025 17:30:49.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> SI
-[05Feb2025 17:31:00.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Set own game mode to Creative Mode]
-[05Feb2025 17:31:13.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Applied effect Strength to VIctorLeyva08]
-[05Feb2025 17:31:19.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Tie me to the Mast]
-[05Feb2025 17:31:44.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Set own game mode to Survival Mode]
-[05Feb2025 17:32:01.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:01.583] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:01.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:01.784] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:01.882] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:01.983] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:02.084] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:02.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:02.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:02.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:02.484] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:02.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:02.681] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:02.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:02.882] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:02.982] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:03.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:03.182] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:03.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:03.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:03.482] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:03.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:03.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:03.783] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:03.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:03.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:04.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:04.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:04.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:04.380] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:04.481] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:04.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:04.681] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:04.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:04.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:04.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:05.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:05.195] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:05.284] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:05.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:05.483] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:05.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:05.683] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[05Feb2025 17:32:38.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Where Is The Stone Pen?]
-[05Feb2025 17:33:27.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> NO
-[05Feb2025 17:34:16.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has reached the goal [Fortuitous Militia]
-[05Feb2025 17:34:26.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> ??
-[05Feb2025 17:34:53.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has made the advancement [Voluntary Exile]
-[05Feb2025 17:35:06.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> hay barcos piratas
-[05Feb2025 17:35:16.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Semen> hojala se lo follen
-[05Feb2025 17:35:32.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> se hace con hojas xdd
-[05Feb2025 17:35:37.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> metete al portal
-[05Feb2025 17:36:10.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> hay unas hojitas
-[05Feb2025 17:36:14.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> del mundo de yonsatan
-[05Feb2025 17:36:18.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> estan en cofres
-[05Feb2025 17:36:29.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Semen moved too quickly! 7303.354577641583,-56.67647087614428,1350.5104540303187
-[05Feb2025 17:36:57.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/12037, l='ServerLevel[world]', x=3321.54, y=68.00, z=-2981.37] died, message: 'Fisherman was shot by Pillager'
-[05Feb2025 17:37:14.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen has made the advancement [The Silence of the Forest]
-[05Feb2025 17:38:12.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Set own game mode to Creative Mode]
-[05Feb2025 17:38:19.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Set own game mode to Survival Mode]
-[05Feb2025 17:38:32.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Set own game mode to Creative Mode]
-[05Feb2025 17:39:30.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> hay una dungoen que se les marca en el mapa
-[05Feb2025 17:39:43.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> ahorita voy
-[05Feb2025 17:40:27.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Set own game mode to Survival Mode]
-[05Feb2025 17:40:35.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 has reached the goal [Home Sweet Home]
-[05Feb2025 17:41:25.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> tienes que encantarlo en una tumba
-[05Feb2025 17:41:35.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> en las dungeons vienen encantadas de todo tipo
-[05Feb2025 17:41:41.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> pero no tenemos para hacer tumbas :V
-[05Feb2025 17:41:57.164] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
-[05Feb2025 17:41:59.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> ven
-[05Feb2025 17:42:07.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minius_one lost connection: Disconnected
-[05Feb2025 17:42:07.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one left the game
-[05Feb2025 17:42:53.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Semen moved too quickly! 7303.203771150222,-56.67647087614428,1350.142812003593
-[05Feb2025 17:43:31.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> traes luz?
-[05Feb2025 17:43:57.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> mata
-[05Feb2025 17:44:00.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> tienes que mejorar tu nivel
-[05Feb2025 17:44:12.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> si no no podemos acceder al bioma
-[05Feb2025 17:44:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> ahh
-[05Feb2025 17:46:27.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 10 [Torchberries] to VIctorLeyva08]
-[05Feb2025 17:46:44.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Gave 50 [Torch] to VIctorLeyva08]
-[05Feb2025 17:47:19.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Summoned new Raven]
-[05Feb2025 17:47:26.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: minius_one[/127.228.197.101:60695] logged in with entity id 38699 at (1042.812676529965, 62.95327914164065, 194.78158182845905)
-[05Feb2025 17:47:26.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one joined the game
-[05Feb2025 17:47:26.404] [Server thread/INFO] [Jade/]: Syncing config to minius_one (d1f533df-2b0d-3ca3-a0ad-755c3259976c)
-[05Feb2025 17:47:31.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minius_one moved too quickly! 0.0,-11.832170645297445,0.0
-[05Feb2025 17:47:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minius_one fell from a high place
-[05Feb2025 17:47:32.563] [Server thread/INFO] [tombstone/]: The player minius_one has successfully been saved
-[05Feb2025 17:47:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VIctorLeyva08: Summoned new Raven]
-[05Feb2025 17:47:42.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> YA
-[05Feb2025 17:47:46.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> Solo falta algo
-[05Feb2025 17:47:56.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> tienes glowstone¡
-[05Feb2025 17:47:57.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VIctorLeyva08> ?
+[07Feb2025 20:59:45.034] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[07Feb2025 20:59:45.038] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[07Feb2025 20:59:45.887] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07Feb2025 20:59:45.936] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Yonffrentes/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[07Feb2025 20:59:46.173] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Yonffrentes/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[07Feb2025 20:59:46.176] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Yonffrentes/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Feb2025 20:59:46.177] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Yonffrentes/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Feb2025 20:59:46.178] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Yonffrentes/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Feb2025 20:59:46.356] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[07Feb2025 20:59:48.366] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07Feb2025 20:59:48.395] [main/ERROR] [mixin/]: Mixin config creaturesofruneterra.mixin.json does not specify "minVersion" property
+[07Feb2025 20:59:48.415] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[07Feb2025 20:59:48.569] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[07Feb2025 20:59:48.582] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 69 options available, 0 override(s) found
+[07Feb2025 20:59:48.592] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Feb2025 20:59:49.463] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[07Feb2025 20:59:56.265] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[07Feb2025 20:59:56.265] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[07Feb2025 20:59:58.491] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.eximeisty.creaturesofruneterra.entity.custom.PoroEntity from class com.eximeisty.creaturesofruneterra.entity.custom.ExaltedPoroEntity
+[07Feb2025 20:59:58.491] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.eximeisty.creaturesofruneterra.entity.custom.PoroEntity from class com.eximeisty.creaturesofruneterra.entity.custom.ExaltedPoroEntity
+[07Feb2025 20:59:58.491] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.eximeisty.creaturesofruneterra.entity.custom.PoroEntity from class com.eximeisty.creaturesofruneterra.entity.custom.ExaltedPoroEntity
+[07Feb2025 20:59:58.492] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.eximeisty.creaturesofruneterra.entity.custom.FiddlesticksEntity from class com.eximeisty.creaturesofruneterra.entity.custom.FiddleDummyEntity
+[07Feb2025 20:59:58.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[07Feb2025 20:59:59.167] [main/INFO] [journeymap/]: Initializing Packet Registries
+[07Feb2025 20:59:59.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[07Feb2025 20:59:59.181] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[07Feb2025 20:59:59.201] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[07Feb2025 20:59:59.202] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[07Feb2025 20:59:59.202] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[07Feb2025 20:59:59.202] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[07Feb2025 20:59:59.288] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[07Feb2025 20:59:59.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[07Feb2025 20:59:59.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[07Feb2025 20:59:59.309] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[07Feb2025 20:59:59.314] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[07Feb2025 20:59:59.315] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[07Feb2025 20:59:59.316] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[07Feb2025 20:59:59.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
+[07Feb2025 20:59:59.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[07Feb2025 20:59:59.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[07Feb2025 20:59:59.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[07Feb2025 21:00:00.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.4+mc1.20.1-build.131 Target: null
+[07Feb2025 21:00:00.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Feb2025 21:00:00.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
+[07Feb2025 21:00:00.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[07Feb2025 21:00:00.689] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[07Feb2025 21:00:03.063] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Feb2025 21:00:05.298] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Yonffrentes/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
+[07Feb2025 21:00:05.298] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Yonffrentes/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
+[07Feb2025 21:00:06.609] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[07Feb2025 21:00:07.473] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[07Feb2025 21:00:07.515] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[07Feb2025 21:00:07.521] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[07Feb2025 21:00:07.522] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[07Feb2025 21:00:07.524] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[07Feb2025 21:00:07.525] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[07Feb2025 21:00:07.531] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[07Feb2025 21:00:07.532] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[07Feb2025 21:00:07.535] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[07Feb2025 21:00:07.709] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2496 advancements
+[07Feb2025 21:00:07.714] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[07Feb2025 21:00:09.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07Feb2025 21:00:09.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Feb2025 21:00:09.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Feb2025 21:00:09.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Feb2025 21:00:10.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Feb2025 21:00:10.044] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Feb2025 21:00:10.142] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07Feb2025 21:00:10.143] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07Feb2025 21:00:10.143] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07Feb2025 21:00:10.143] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07Feb2025 21:00:10.160] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[07Feb2025 21:00:10.161] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[07Feb2025 21:00:10.162] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[07Feb2025 21:00:10.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07Feb2025 21:00:13.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Feb2025 21:00:17.305] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Feb2025 21:00:17.334] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Feb2025 21:00:17.342] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Feb2025 21:00:17.346] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Feb2025 21:00:17.354] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Feb2025 21:00:17.367] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Feb2025 21:00:17.378] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Feb2025 21:00:17.441] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Feb2025 21:00:17.646] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Feb2025 21:00:18.106] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Feb2025 21:00:18.604] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[07Feb2025 21:00:19.105] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[07Feb2025 21:00:19.290] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5687 ms
+[07Feb2025 21:00:19.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.134s)! For help, type "help"
+[07Feb2025 21:00:19.330] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Feb2025 21:00:19.366] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[07Feb2025 21:00:19.367] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[07Feb2025 21:05:55.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Semen[/127.122.23.250:52273] logged in with entity id 623 at (1056.5, 64.6875, 210.5)
+[07Feb2025 21:05:55.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Semen joined the game
+[07Feb2025 21:05:55.405] [Server thread/INFO] [Jade/]: Syncing config to Semen (6d1fb864-da46-3f61-8d76-3bc178cfeab0)
+[07Feb2025 21:05:57.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[07Feb2025 21:06:59.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VIctorLeyva08[/127.144.190.137:54543] logged in with entity id 1092 at (-435.766305440649, 85.0, -341.9733565594793)
+[07Feb2025 21:06:59.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VIctorLeyva08 joined the game
+[07Feb2025 21:07:00.014] [Server thread/INFO] [Jade/]: Syncing config to VIctorLeyva08 (2b541c0b-4fda-3af0-a11f-e628cdf3d653)
+[07Feb2025 21:07:27.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityBlueJay['Blue Jay'/1411, l='ServerLevel[world]', x=1032.46, y=67.18, z=-0.06]
